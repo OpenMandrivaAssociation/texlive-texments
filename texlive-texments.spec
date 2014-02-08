@@ -6,7 +6,7 @@
 # catalog-version 0.2.0
 Name:		texlive-texments
 Version:	0.2.0
-Release:	2
+Release:	3
 Summary:	Using the Pygments highlighter in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texments
