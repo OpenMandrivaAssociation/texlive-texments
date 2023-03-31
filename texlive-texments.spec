@@ -1,6 +1,6 @@
 Name:		texlive-texments
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Using the Pygments highlighter in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texments
